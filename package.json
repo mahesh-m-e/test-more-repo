@@ -52,5 +52,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@syncfusion/ej2-react-pdfviewer": "18.2.44"
+  }
 }
