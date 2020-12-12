@@ -27,8 +27,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.13.0",
-    "@syncfusion/ej2-react-pdfviewer": "18.2.44"
+    "react": "^16.13.0"
   },
   "devDependencies": {
     "@syncfusion/ej2-react-pdfviewer": "^18.2.44",
