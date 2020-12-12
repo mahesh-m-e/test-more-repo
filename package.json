@@ -4,7 +4,10 @@
   "description": "Made with create-react-library",
   "author": "Mahesh.me",
   "license": "MIT",
-  "repository": "Mahesh.me/one-test-module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahesh-m-e/test-more-repo"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
